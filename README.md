@@ -1,22 +1,36 @@
-```markdown
 <div align="center">
 
-# Hi 👋, I'm Ashish
+# Hi 👋, I'm Ashish Bharti
 
-### Full Stack Developer | MCA @ University of Hyderabad | AI & Blockchain Enthusiast
+### Full Stack Developer | MCA @ University of Hyderabad
 
-> *Building scalable web applications, exploring AI, and solving real-world problems through code.*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Blockchain+Learner;MERN+Stack+Developer;Open+Source+Contributor" />
+</p>
 
-<!-- Add your custom banner here later -->
+<p align="center">
+  <a href="mailto:ab9324662@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ErrorsAccheHai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## � About Me
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at the **University of Hyderabad**
-- 💻 Passionate about **Full Stack Web Development**, **Artificial Intelligence**, and **Blockchain**
+- 🎓 Pursuing **MCA** at the **University of Hyderabad**
+- 💻 Passionate about **Full Stack Development**, **AI**, and **Blockchain**
 - 🌱 Currently learning **Blockchain Development**, **System Design**, and **Cloud Technologies**
 - 🤝 Open to collaborating on **Open Source**, **MERN Stack**, and **Web3** projects
 - 🧩 Enjoy solving **Data Structures & Algorithms** problems
@@ -24,68 +38,97 @@
 
 ---
 
-## 🛠️ Tech Stack
+## � Experience
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css" />
-</p>
+### Data Science Intern | Nighwan Technology
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,npm,vscode" />
-</p>
+- Built an AI-powered surveillance system using **YOLO** and **OpenCV**
+- Automated WhatsApp notifications for real-time security alerts
+- Developed attendance and dress-code compliance monitoring
+- Worked on Computer Vision-based automation pipelines
 
 ---
 
-## 📌 Featured Projects
+## � Featured Projects
 
-### 🏠 Co-Live Housing Management System
+### 🏠 [Co-Live Housing Management System](https://github.com/ErrorsAccheHai/Co-live)
+
 A full-stack MERN application for managing rental properties, tenants, inventory, and maintenance requests with secure role-based authentication.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS
+**Tech Stack:** React · Node.js · Express.js · MongoDB · Tailwind CSS
 
 ---
 
 ### 🤖 AI Surveillance System
-Developed during my Data Science internship. Implemented object detection to identify restricted items, monitor dress code compliance, and automate WhatsApp notifications for alerts and attendance.
 
-**Tech Stack:** Python, YOLO, OpenCV
+Implemented object detection to identify restricted items, monitor dress code compliance, and automate WhatsApp notifications for alerts and attendance.
 
----
-
-### 🛰️ Drone Orthomosaic Detection
-AI-based building detection system using drone orthomosaic images.
-
-**Tech Stack:** YOLOv8, WebODM, Python
+**Tech Stack:** Python · YOLO · OpenCV
 
 ---
 
-## 📈 GitHub Stats
+### 🛰️ [Drone Orthomosaic Detection](https://github.com/ErrorsAccheHai/drone-orthomosaic-detection)
+
+End-to-end drone mapping workflow using WebODM photogrammetry and YOLOv8 for automated building detection on orthomosaic imagery.
+
+**Tech Stack:** YOLOv8 · WebODM · Python · Docker
+
+---
+
+### 🌐 [Portfolio Website](https://github.com/ErrorsAccheHai/portfolio)
+
+Personal portfolio showcasing projects, internship experience, technical skills, and achievements in AI/ML, MERN Stack, and Computer Vision.
+
+**Tech Stack:** TypeScript · React
+
+---
+
+### 🌳 [RBTree Visualizer](https://github.com/ErrorsAccheHai/RBTree-Visualizer)
+
+An interactive web app to visualize how Red-Black Trees work.
+
+**Tech Stack:** JavaScript
+
+---
+
+### 🖼️ [IMAGE2PDF](https://github.com/ErrorsAccheHai/IMAGE2PDF)
+
+Simple and clean image to PDF converter.
+
+**Tech Stack:** JavaScript
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=java,python,javascript,c,html,css)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite)
+
+**Backend**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+**Database**
+
+![Database](https://skillicons.dev/icons?i=mongodb,mysql)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode)
+
+---
+
+## � GitHub Stats
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ErrorsAccheHai&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ErrorsAccheHai&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorsAccheHai&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErrorsAccheHai&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorsAccheHai&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErrorsAccheHai&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -93,7 +136,7 @@ AI-based building detection system using drone orthomosaic images.
 ## 🏆 Achievements
 
 - 🎓 MCA Student at the University of Hyderabad
-- 💼 Completed a Data Science Internship
+- 💼 Data Science Internship at Nighwan Technology
 - 🏅 HackerRank Certified React Developer
 - 💻 Active LeetCode problem solver
 - 🚀 Built multiple full-stack and AI-powered applications
@@ -102,10 +145,9 @@ AI-based building detection system using drone orthomosaic images.
 
 ## 🌱 Currently Learning
 
-- Blockchain Development
-- Smart Contracts
+- Blockchain Development & Smart Contracts
+- Docker & Cloud Technologies
 - System Design
-- Docker & Cloud
 - Advanced DSA
 
 ---
@@ -113,28 +155,16 @@ AI-based building detection system using drone orthomosaic images.
 ## 📫 Connect With Me
 
 <p align="left">
-
-<a href="mailto:ab9324662@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<!-- Replace with your LinkedIn URL -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<!-- Replace with your Portfolio URL -->
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
-
+  <a href="mailto:ab9324662@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
 </p>
-
----
-
-## 💡 Fun Fact
-
-> I enjoy turning ideas into real-world applications through clean code and continuous learning.
 
 ---
 
@@ -145,7 +175,6 @@ AI-based building detection system using drone orthomosaic images.
 If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
-```
 
 <!---
 ErrorsAccheHai/ErrorsAccheHai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
